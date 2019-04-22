@@ -1,0 +1,5 @@
+﻿  Assignment6.cpp
+c:\users\chris\documents\visual studio 2015\projects\project6\project6\assignment6.cpp(67): warning C4018: '>': signed/unsigned mismatch
+c:\users\chris\documents\visual studio 2015\projects\project6\project6\assignment6.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  Project6.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2015\Projects\Project6\Debug\Project6.exe
+  Project6.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2015\Projects\Project6\Debug\Project6.pdb (Full PDB)

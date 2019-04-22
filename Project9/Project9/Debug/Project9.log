@@ -1,0 +1,7 @@
+﻿  Assignment9.cpp
+c:\users\chris\documents\visual studio 2015\projects\project9\project9\assignment9.cpp(18): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\project9\project9\assignment9.cpp(139): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\project9\project9\assignment9.cpp(140): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\project9\project9\assignment9.cpp(141): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Project9.vcxproj -> c:\users\chris\documents\visual studio 2015\Projects\Project9\Debug\Project9.exe
+  Project9.vcxproj -> c:\users\chris\documents\visual studio 2015\Projects\Project9\Debug\Project9.pdb (Full PDB)

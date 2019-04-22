@@ -1,0 +1,4 @@
+﻿  newC++file.cpp
+c:\users\chris\documents\visual studio 2015\projects\practice\practice\newc++file.cpp(8): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Practice.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2015\Projects\Practice\Debug\Practice.exe
+  Practice.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2015\Projects\Practice\Debug\Practice.pdb (Full PDB)

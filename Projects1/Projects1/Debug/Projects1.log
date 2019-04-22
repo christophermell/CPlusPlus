@@ -1,0 +1,4 @@
+﻿  Assignment2.cpp
+Assignment2.obj : error LNK2005: _main already defined in Assignment1.obj
+Assignment2.obj : error LNK2019: unresolved external symbol "void __cdecl PrintOutTwoNumbers(int,int)" (?PrintOutTwoNumbers@@YAXHH@Z) referenced in function _main
+C:\Users\Chris\Documents\Visual Studio 2015\Projects\Projects1\Debug\Projects1.exe : fatal error LNK1120: 1 unresolved externals

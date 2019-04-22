@@ -1,0 +1,5 @@
+﻿  assignment5.cpp
+c:\users\chris\documents\visual studio 2015\projects\project5\project5\assignment5.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\project5\project5\assignment5.cpp(43): warning C4101: 'temp': unreferenced local variable
+  Project5.vcxproj -> c:\users\chris\documents\visual studio 2015\Projects\Project5\Debug\Project5.exe
+  Project5.vcxproj -> c:\users\chris\documents\visual studio 2015\Projects\Project5\Debug\Project5.pdb (Full PDB)
